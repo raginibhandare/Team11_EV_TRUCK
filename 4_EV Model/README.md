@@ -12,7 +12,6 @@
 - 	INVERTER – Grid-tied string
 - 	WHEEL BASE - 3310mm
 - 	CONTROLLER – PID Controller# MODEL DESIGN
-
 - 	COST  – ₹ 15.29 Lakh to ₹ 16.82 Lakh
 - 	GROSS COMBINATION WEIGHT  – 7300 kg 
 - 	RANGE  – More than 100 KMs
