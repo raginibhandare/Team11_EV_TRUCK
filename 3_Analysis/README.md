@@ -13,7 +13,7 @@ SPECIFICATIONS   |      Volvo Fe      |    Mack LR
 •	CHARGING TIME(FULL CHARGE) |11h with AC (22 kW) & 2h with DC (150 kW)|2 hrs |
 •	DRIVELINE/MOTOR |2 electric motors, 2-Speed gearbox Max torque electric motors 850 Nm. Max torque rear axle 28 kNm.|The 4SPCR engine that offers 100hp of power along with 300Nm of torque from 1,200 to 2,200rpm and  brushless asynchronous induction motor |
 •	PERFORMANCE|Up to 225kw power (300hp)|100hp|
-•	ELECTRIC MOTOR TORQUE FOR PTO(PEAK/CONTINUOUS)|530 Nm/270 Nm|300Nm|
-•	INVERTER|Traction|Traction |
+•	ELECTRIC MOTOR TORQUE FOR PTO(PEAK/CONTINUOUS)|530 Nm/270 Nm|300Nm| 
+•	INVERTER|Traction| Traction |
 •	WHEEL BASE |From 3 900 mm up to 5000 mm1|3310mm|
 •	CONTROLLER |PI Controller|PI controller|
