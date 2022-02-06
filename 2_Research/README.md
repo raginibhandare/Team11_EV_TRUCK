@@ -3,3 +3,4 @@ The Volvo VNR Electric trucks join NFI’s fleet of more than 4,500 heavy-duty t
 
 Recognized as a four-time award-winning, EPA SmartWay Partner, NFI continues to implement a variety of clean vehicles and equipment to reduce its overall emissions, including electric heavy-duty trucks, near-zero emission natural gas vehicles and battery-electric warehouse equipment. Volvo’s VNR Electric trucks support both NFI and its customers on their journey in meeting ambitious sustainability goals. 
 
+ improved four-battery system isavailable in five configurations. Order it asa tractor with 4x2, 6x2, or 6x4 setup. Or choose a straight truck with 4x2 or 6x4 axle option. Whatever your need, there’sa VNR Electric that fits your local delivery application. 
