@@ -8,9 +8,8 @@ The VNR Electric merges the VNR series’ agility, versatility, safety, and visi
 
 Volvo doused its VNR Electric in safety features, complete with additional protection in the VNR Electric’s battery cage. Included in all VNR Electrics is Volvo Active Driving Assist, a forward collision avoidance technology helping drivers respond and avoid threatening traffic situations. This technology uses cameras and radars to keep the driver alert of traffic changes at all times. Lane Departure Warnings are also included. As for the additional battery protection, Volvo’s VNR Electric battery box features a side impact protection barrier.
 ## Requirements
-
 •	Battery :
 •	Battery type used in this EV is Lithium-ion Polymer. 
-•	Lithium is also the lightest of all metals. However, lithium-ion (Li-ion) batteries contain no lithium metal, they contain ions. For those wondering what an ion is, an ion is a an atom or molecule with an electric charge caused by the loss or gain of one or more electrons.
+•	Lithium is also the lightest of all metals. However, lithium-ion (Li-ion) batteries contain no lithium metal, they contain ions. For those wondering what an ion is, an ion is a   an atom or molecule with an electric charge caused by the loss or gain of one or more electrons.
 •	Battery Features:
 •	Lithium-ion batteries are one of the most popular forms of energy storage in the world, accounting for 85.6% of deployed energy storage systems.
