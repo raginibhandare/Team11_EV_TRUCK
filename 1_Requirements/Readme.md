@@ -58,4 +58,5 @@ Permanent magnet motor full-load efficiency is higher than an AC induction motor
 - Small size 
 It may offer a smaller size for more compact mechanical packages. So permanent magnet motor highly useful for industrial tasks.
 - DC power source 
-Don’t need an extra DC power source for it. The AC supply is provided on the stator and the permanent magnets are on the rotor.
+- Surface-mounted PMSM
+In this construction, the magnet is mounted on the surface of the rotor. It is suited for high-speed applications, as it is not robust. It provides a uniform air gap because the permeability of the permanent magnet and the air gap is the same. No reluctance torque, high dynamic performance, and suitable for high-speed devices like robotics and tool drives.
