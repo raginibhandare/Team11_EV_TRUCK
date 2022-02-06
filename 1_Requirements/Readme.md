@@ -1,3 +1,18 @@
+# Team11_EV_TRUCK
+
+## Team Members
+| Name   |     Ps No.     |  
+|----------|:-------------:|
+|Kumaravel K|40021065|
+|Milind Gautam Bagul|40021135|
+|Monisha Guruchandiran | 40021054 | 
+|Ragini Sandip Bhandare|40021048|
+|Satish Kumar Kondamari|40021042|
+|Yarasani Vedavathi|40021035|
+
+
+
+
 ## Introduction
 The new Volvo FE Electric will be offered in several variants for different types of transport 
 assignment. For instance with Volvo’s low-entry cab, which makes it easier to enter and exit the cab 
