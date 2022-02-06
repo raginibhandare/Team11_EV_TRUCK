@@ -13,3 +13,5 @@ Volvo doused its VNR Electric in safety features, complete with additional prote
 •	Lithium is also the lightest of all metals. However, lithium-ion (Li-ion) batteries contain no lithium metal, they contain ions. For those wondering what an ion is, an ion is a   an atom or molecule with an electric charge caused by the loss or gain of one or more electrons.
 •	Battery Features:
 •	Lithium-ion batteries are one of the most popular forms of energy storage in the world, accounting for 85.6% of deployed energy storage systems.
+•Battery capacity: 540 kWh
+•Output power: 490 kW continuous power
