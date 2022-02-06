@@ -125,6 +125,8 @@ SPECIFICATIONS   |      Volvo Fe      |    Mack LR
 - 	WHEEL BASE - 3310mm
 - 	CONTROLLER – PID Controller
 
+# Conclusion
+The progress that the electric vehicle industry has seen in recent years is not only extremely welcomed, but highly necessary in light of the increasing global greenhouse gas levels. As demonstrated within the economic, social, and environmental analysis sections of this webpage, the benefits of electric vehicles far surpass the costs. The biggest obstacle to the widespread adoption of electric-powered transportation is cost related, as gasoline and the vehicles that run on it are readily available, convenient, and less costly. As is demonstrated in our timeline, we hope that over the course of the next decade technological advancements and policy changes will help ease the transition from traditional fuel-powered vehicles. Additionally, the realization and success of this industry relies heavily on the global population, and it is our hope that through mass marketing and environmental education programs people will feel incentivized and empowered to drive an electric-powered vehicle. Each person can make a difference, so go electric and help make a difference!
 
 
 
