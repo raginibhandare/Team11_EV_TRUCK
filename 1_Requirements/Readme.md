@@ -18,25 +18,48 @@ The new Volvo FE Electric will be offered in several variants for different type
 assignment. For instance with Volvo’s low-entry cab, which makes it easier to enter and exit the cab 
 and gives the driver a commanding view of surrounding traffic. The working environment improves 
 too as a result of the low noise level and vibration-free operation. Battery capacity can be optimised 
-to suit individual needs, and charging takes place either via the mains or via quick-charge stations. 
+to suit individual needs, and charging takes place either via the mains or via quick-charge stations.
+The Volvo FE is easy to handle even in 
+the most congested spaces. It is a vehicle that allows for easy manoeuvring and 
+smooth acceleration, as well as providing 
+an array of instruments to help you navigate every situation.The Volvo FE can be specified to meet 
+your superstructure demands. The FE 6×2 rigid with its low noise level, excellent all-round visibility and 
+easy manoeuvring makes it the perfect choice for refuse transporting operations. Frequent stops and starts 
+are aided by the D8K engine with power ratings up to 350 hp, combined with automatic transmission or 
+I-Shift. When super low emissions are required, there’s a CNG powered driveline option available. The low 
+instep offers a convenient entry with anti-slip steps, and the cabs offer among the best close up and all round visibility there is in the industry.
+
+The Volvo FE engine range ensures 
+performance for city and regional distribution as well as construction duties – while at the same time 
+offering alternatives for sensitive environments with stringent emissions regulations. An extended 
+output range stretching from 250 to 350 hp including synthetic diesel, biodiesel and gas alternatives enables you to tailor the driveline for your needs. This is part of our long-term ambition to move 
+towards zero emissions
 
 # BENEFITS OF ELECTRIC TRUCKS
- *  Lower emissions
- 
- *  Lower maintenance
-  
- *  Lower noise disturbance
- 
- *  Better performance
- 
- *  Increased efficiency
 
 It is always cheaper to charge your electric truck than spending money on gas. Electric trucks provide businesses with many benefits that primarily aim for the long run.
 EV trucks do not require fuel, which is already one of the biggest advantages, due to fuel cost and effect on nature.
 Driving electric trucks reduces CO2 emissions and actually offers better performance for drivers.EV trucks also have less parts, which should lead to less damage and lower maintenance. 
 However, this depends on a truck model and its usage.While driving within urban areas with frequent stops and speeding, it is way more efficient to drive electric truck than diesel truck.
 # The specification is given below:
-##	Battery :
+
+### Battery :
+Power and torque.
+The G9K engine delivers a full 320 hp 
+and 1356 Nm of torque, and has been 
+primarily developed for operations 
+involving short driving cycles with frequent starts and stop.
+### Automatic transmission:
+The 6-speed automatic transmission 
+makes the Volvo FE CNG an easy to use 
+productive tool for urban transports.
+### Operating range:
+Choose between 2×4 or 2×3 gas tanks 
+fitted on the chassis. This gives an 
+operating range of up to 400 km in light 
+distribution and up to 250 km in severe 
+refuse collection.
+
 ### Lithium-ion Polymer
 -	Battery type used in this EV is Lithium-ion Polymer. 
 -	Lithium is also the lightest of all metals. However, lithium-ion (Li-ion) batteries contain no lithium metal, they contain ions. For those wondering what an ion is, an ion is a an atom or molecule with an electric charge caused by the loss or gain of one or more electrons.
@@ -58,20 +81,7 @@ However, this depends on a truck model and its usage.While driving within urban 
 -  transportation conditions are not subject to regulatory control.
 -  Gain and phase shift of each action
 -  Proportional action acts on the present, adding no phase shift to a sinusoidal signal. Its gain is constant for any signal frequency.
-##  Inverter:
-### Traction inverter
-- Traction inverters convert dc power from an on-board high voltage (HV) battery into ac power to drive the main motor or motors of an electric vehicle.
--  In addition, traction inverters perform functions such as voltage boosting, switch protection and regenerative braking.
--   This key component has a direct impact on road performance, driving range and reliability of the vehicle also as a consequence of their weight and size
 
 ## Motor:
 ### Permanent Magnet Synchronous Motor (PMSM)
-- Low torque ripple 
-This motor has low torque ripple so it can generate constant torque. Also its ability to maintain full torque at low speeds.
-- High efficiency 
-Permanent magnet motor full-load efficiency is higher than an AC induction motor. It’s a rotor magnet made by using a permanent magnet so this motor has high efficiency. Because its rotor hasn’t any coil so heat generation is less.
-- Small size 
-It may offer a smaller size for more compact mechanical packages. So permanent magnet motor highly useful for industrial tasks.
-- DC power source 
-- Surface-mounted PMSM
-In this construction, the magnet is mounted on the surface of the rotor. It is suited for high-speed applications, as it is not robust. It provides a uniform air gap because the permeability of the permanent magnet and the air gap is the same. No reluctance torque, high dynamic performance, and suitable for high-speed devices like robotics and tool drives.
+
