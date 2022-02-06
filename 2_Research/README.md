@@ -7,9 +7,6 @@ Volvo has introduced the FE Electric, a full electrically-powered truck that’s
 The battery options will be 200-300 kWh for up to 200 km (125 miles) of range (FL was from 100 kWh).
 
 ## Reference:
-- Integrated, feed-forward hybrid electric vehicle simulation in SIMULINK and its use for power management studies
-- Energy management strategy for a parallel hybrid electric truck,
-- Energy management strategy for a parallel hybrid electric truck
 - https://ieeexplore.ieee.org/abstract/document/7587102
 - https://www.tandfonline.com/doi/abs/10.1080/00423110412331291553
 - https://www.volvogroup.com/content/dam/volvo/volvo-group/markets/global/en-en/news/2018/may/180508-volvo-trucks-fe-electric-en-2018-05-08-12-00-39.pdf
