@@ -7,4 +7,4 @@ The Volvo VNR Electric trucks will be integrated into NFI's commercial operation
 The VNR Electric merges the VNR series’ agility, versatility, safety, and visibility with the VNR Electric’s sustainability. The VNR Electric drivetrain is rated at 455 hp with up to 4,051 lb-ft of torque. It also features Volvo’s two-speed I-Shift automated transmission, and it can achieve speeds up to 65 mph on the highway.
 
 Volvo doused its VNR Electric in safety features, complete with additional protection in the VNR Electric’s battery cage. Included in all VNR Electrics is Volvo Active Driving Assist, a forward collision avoidance technology helping drivers respond and avoid threatening traffic situations. This technology uses cameras and radars to keep the driver alert of traffic changes at all times. Lane Departure Warnings are also included. As for the additional battery protection, Volvo’s VNR Electric battery box features a side impact protection barrier.
-
+## Requirements
